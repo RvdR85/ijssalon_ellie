@@ -1,4 +1,4 @@
-from algemene_functies.py import mijn_functie_2
+from algemene_functies import mijn_functie_2
 
 from statistics import mean
 
